@@ -1,9 +1,9 @@
 // Color Theme
 const colors = {
-    available: 'lightgray',
-    used: 'lightgreen',
-    wrong: 'lightcoral',
-    candidate: 'deepskyblue',
+    available: 'gray',  // 'lightgray',
+    used: 'green',      //'lightgreen',
+    wrong: 'red',       //'lightcoral',
+    candidate: 'blue'   //'deepskyblue',
   };
 
   export default colors;
