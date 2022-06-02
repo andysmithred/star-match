@@ -1,4 +1,5 @@
 
+// Note the use of in line react styles, great way of dealing with dynamic styles
 const PlayAgain = props => (
     <div className="game-done">
         <div 
