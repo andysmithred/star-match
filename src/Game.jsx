@@ -1,11 +1,10 @@
 // STAR MATCH - Starting Template
-
-
 import utils from './utils';
 import PlayNumber from "./PlayNumber";
 import PlayAgain from "./PlayAgain";
 import StarsDisplay from "./StarsDisplay";
 import useGameState from './useGameState';
+
 
 const Game = (props) => {
     
